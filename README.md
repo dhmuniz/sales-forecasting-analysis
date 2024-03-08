@@ -44,7 +44,7 @@
 </ul>
 
 <h2>Credits</h2>
-<p>This project was inspired by the need to understand and optimize sales performance across different channels. The dataset was sourced from [Kaggle/Public Domain Dataset Source].</p>
+<p>This project was inspired by the need to understand and optimize sales performance across different channels. The dataset was sourced from https://www.kaggle.com/datasets/talhabu/us-regional-sales-data.</p>
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
